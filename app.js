@@ -27,3 +27,23 @@ function clock3() {
 }
 setInterval(clock3, 1000);
 clock3();
+
+
+// let button1 = document.getElementById('button1');
+// let button2 = document.getElementById('button2');
+// let buttin3 = document.getElementById('button3');
+
+// let clock1 = document.getElementById('clock1');
+// let clock2 = document.getElementById('clock2');
+// let clock3 = document.getElementById('clock3');
+
+// document.addEventListener()
+// document.addEventListener()
+// document.addEventListener()
+
+// function changeImg() {
+//     if (x.style.display == "none") {
+//         x.style.display = "block";
+//         } else {
+//       x.style.display = "none"}
+// }
